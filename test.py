@@ -5,4 +5,5 @@ c=30
 d=40
 e=50
 f=60
-print(a+b+c+d+e+f)
+g=70
+print(a+b+c+d+e+f+g)
